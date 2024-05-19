@@ -1,0 +1,7 @@
+#Libraries Used
+Pandas as ps
+numpy as np
+matplotlib.pyplot as plt
+seabrn as sns
+yfinance as yf
+sklearn
